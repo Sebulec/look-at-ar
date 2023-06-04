@@ -1,7 +1,6 @@
-# look-at-ar
-ARSCNView and SCNParticleSystem usage in practice with iOS 16.4
-# Look at AR
 
+# Look at AR
+ARSCNView and SCNParticleSystem usage in practice with iOS 16.4
 Example of ARKit usage in iOS 16.4, specially SceneKit.
 
 ## DEMO
