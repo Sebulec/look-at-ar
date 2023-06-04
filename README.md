@@ -4,7 +4,8 @@ ARSCNView and SCNParticleSystem usage in practice with iOS 16.4
 Example of ARKit usage in iOS 16.4, specially SceneKit.
 
 ## DEMO
-![Alt text](https://i.imgur.com/X6RuBBj.gif)
+
+![https://i.imgur.com/X6RuBBj.gif](https://i.imgur.com/9a0AahD.gif)
 
 ## Getting Started
 
